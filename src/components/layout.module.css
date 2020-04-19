@@ -1,5 +1,14 @@
-.main {
-	margin: 0 auto;
-	max-width: 650px;
-	padding: 0 1rem;
+html,
+body {
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: 'Playfair Display', serif;
+}
+
+.page {
 }
